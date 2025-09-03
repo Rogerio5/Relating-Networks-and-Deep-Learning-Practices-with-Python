@@ -1,9 +1,5 @@
 # Relating-Networks-and-Deep-Learning-Practices-with-Python
 
-## Desafios de Deep Learning com Python
-Este repositório contém atividades práticas para reforçar conceitos fundamentais de redes neurais e aplicações de deep learning, utilizando lógica de programação em Python.
-
----
 
 # 🧠 Desafios de Deep Learning com Python
 
