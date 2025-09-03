@@ -48,3 +48,25 @@ Transforma frases em formatos mais adequados para uso em variáveis, arquivos ou
 **Exemplo de entrada:**
 ```python
 ["anotando redes neurais", "deep learning com python"]
+````
+
+### 4.Saída esperada:
+["anotando_redes_neurais", "deep_learning_com_python"]
+
+---
+
+### 5. 🛠️ Como executar
+
+Clone o repositório:
+git clone https://github.com/seu-usuario/deep-learning-desafios.git
+
+---
+
+### 6. 🎯 Objetivo
+Essas atividades têm como foco:
+
+Fixar conceitos de redes neurais e suas aplicações
+
+Praticar lógica de programação com dicionários e manipulação de strings
+
+Servir como base para projetos maiores em visão computacional e NLP
