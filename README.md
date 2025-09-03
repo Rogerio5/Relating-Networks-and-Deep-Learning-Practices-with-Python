@@ -6,12 +6,19 @@
 Este repositório reúne atividades práticas para reforçar conceitos fundamentais de **redes neurais**, **aplicações de deep learning** e **manipulação de dados com Python**. Os exercícios foram desenvolvidos com foco em lógica de programação, compreensão de arquiteturas de redes e aplicações reais de inteligência artificial.
 
 ---
+## 🧪 Linguagens e Tecnologias Usadas
 
- 🧪 Linguagens e Tecnologias Usadas
+<p>
+  <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="left" alt="Deep Learning" title="Deep Learning" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Deep_learning_icon.svg"/>
+  <img align="left" alt="Logic" title="Lógica de Programação" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/2721/2721278.png"/>
+</p>
 
-<p> <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> 
+<br>
 
-
+- **Python 3.10+** — linguagem principal para os desafios  
+- **Lógica de Programação** — uso de dicionários, listas e funções  
+- **Deep Learning (conceitual)** — redes neurais e aplicações práticas  
 
 ---
   
