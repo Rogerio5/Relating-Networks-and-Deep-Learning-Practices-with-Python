@@ -7,16 +7,13 @@ Este repositório reúne atividades práticas para reforçar conceitos fundament
 
 ---
 
-# 🧪 Linguagens e Tecnologias Usadas
+ 🧪 Linguagens e Tecnologias Usadas
 
 <p> <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> 
 
-
-
-
 ---
 
-
+---
   
 ## 📚 Atividades incluídas
 
