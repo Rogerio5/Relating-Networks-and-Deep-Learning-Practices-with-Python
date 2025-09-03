@@ -13,12 +13,10 @@ Este repositório reúne atividades práticas para reforçar conceitos fundament
   <img align="left" alt="Logic" title="Lógica de Programação" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/2721/2721278.png"/>
 </p>
 
-<br>
-
 - **Python 3.10+** — linguagem principal para os desafios  
 - **Lógica de Programação** — uso de dicionários, listas e funções  
 - **Deep Learning (conceitual)** — redes neurais e aplicações práticas  
-
+<br>
 ---
   
 ## 📚 Atividades incluídas
